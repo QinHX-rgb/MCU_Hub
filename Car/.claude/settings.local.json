@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//mnt/d/**)",
+      "Read(//mnt/c/Users/34716/**)",
+      "Bash(python3 *)",
+      "Bash(xxd /mnt/e/MCU/MSP/My_WorkSpace/Car/empty.c)"
+    ]
+  }
+}

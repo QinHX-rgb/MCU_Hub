@@ -1,0 +1,77 @@
+[
+   {
+      "directory" : "E:/MCU/MSP/My_WorkSpace/Car_Test/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System/MSPM0\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver/OLED\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Debug\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source/third_party/CMSIS/Core/Include\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "E:/MCU/MSP/My_WorkSpace/Car_Test/Debug/ti_msp_dl_config.c"
+   },
+   {
+      "directory" : "E:/MCU/MSP/My_WorkSpace/Car_Test/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System/MSPM0\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver/OLED\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Debug\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source/third_party/CMSIS/Core/Include\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "E:/MCU/MSP/My_WorkSpace/Car_Test/Driver/CY_Z.c"
+   },
+   {
+      "directory" : "E:/MCU/MSP/My_WorkSpace/Car_Test/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System/MSPM0\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver/OLED\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Debug\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source/third_party/CMSIS/Core/Include\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "E:/MCU/MSP/My_WorkSpace/Car_Test/Driver/Encoder.c"
+   },
+   {
+      "directory" : "E:/MCU/MSP/My_WorkSpace/Car_Test/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System/MSPM0\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver/OLED\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Debug\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source/third_party/CMSIS/Core/Include\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "E:/MCU/MSP/My_WorkSpace/Car_Test/Driver/Motor_Control.c"
+   },
+   {
+      "directory" : "E:/MCU/MSP/My_WorkSpace/Car_Test/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System/MSPM0\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver/OLED\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Debug\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source/third_party/CMSIS/Core/Include\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "E:/MCU/MSP/My_WorkSpace/Car_Test/Driver/OLED/OLED.c"
+   },
+   {
+      "directory" : "E:/MCU/MSP/My_WorkSpace/Car_Test/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System/MSPM0\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver/OLED\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Debug\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source/third_party/CMSIS/Core/Include\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "E:/MCU/MSP/My_WorkSpace/Car_Test/Driver/PID.c"
+   },
+   {
+      "directory" : "E:/MCU/MSP/My_WorkSpace/Car_Test/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System/MSPM0\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver/OLED\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Debug\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source/third_party/CMSIS/Core/Include\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "E:/MCU/MSP/My_WorkSpace/Car_Test/Driver/grayscale_sensor.c"
+   },
+   {
+      "directory" : "E:/MCU/MSP/My_WorkSpace/Car_Test/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System/MSPM0\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver/OLED\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Debug\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source/third_party/CMSIS/Core/Include\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "E:/MCU/MSP/My_WorkSpace/Car_Test/Driver/motor.c"
+   },
+   {
+      "directory" : "E:/MCU/MSP/My_WorkSpace/Car_Test/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System/MSPM0\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver/OLED\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Debug\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source/third_party/CMSIS/Core/Include\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "E:/MCU/MSP/My_WorkSpace/Car_Test/System/Buzzer.c"
+   },
+   {
+      "directory" : "E:/MCU/MSP/My_WorkSpace/Car_Test/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System/MSPM0\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver/OLED\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Debug\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source/third_party/CMSIS/Core/Include\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "E:/MCU/MSP/My_WorkSpace/Car_Test/System/Key.c"
+   },
+   {
+      "directory" : "E:/MCU/MSP/My_WorkSpace/Car_Test/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System/MSPM0\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver/OLED\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Debug\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source/third_party/CMSIS/Core/Include\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "E:/MCU/MSP/My_WorkSpace/Car_Test/System/clock.c"
+   },
+   {
+      "directory" : "E:/MCU/MSP/My_WorkSpace/Car_Test/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System/MSPM0\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver/OLED\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Debug\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source/third_party/CMSIS/Core/Include\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "E:/MCU/MSP/My_WorkSpace/Car_Test/System/delay.c"
+   },
+   {
+      "directory" : "E:/MCU/MSP/My_WorkSpace/Car_Test/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System/MSPM0\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver/OLED\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Debug\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source/third_party/CMSIS/Core/Include\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "E:/MCU/MSP/My_WorkSpace/Car_Test/System/interrupt.c"
+   },
+   {
+      "directory" : "E:/MCU/MSP/My_WorkSpace/Car_Test/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System/MSPM0\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver/OLED\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Debug\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source/third_party/CMSIS/Core/Include\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "E:/MCU/MSP/My_WorkSpace/Car_Test/System/uart.c"
+   },
+   {
+      "directory" : "E:/MCU/MSP/My_WorkSpace/Car_Test/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System/MSPM0\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/System\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver/OLED\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Driver\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test\" -I\"E:/MCU/MSP/My_WorkSpace/Car_Test/Debug\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source/third_party/CMSIS/Core/Include\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "E:/MCU/MSP/My_WorkSpace/Car_Test/empty.c"
+   }
+]

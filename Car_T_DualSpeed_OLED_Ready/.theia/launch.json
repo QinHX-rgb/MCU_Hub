@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Car_T",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Car_T",
+                "resourceId": "/Car_T"
+            }
+        },
+        {
+            "name": "Car_T_DualSpeed_OLED_Ready",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Car_T_DualSpeed_OLED_Ready",
+                "resourceId": "/Car_T_DualSpeed_OLED_Ready"
+            }
+        }
+    ]
+}

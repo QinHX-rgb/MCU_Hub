@@ -1,0 +1,37 @@
+[
+   {
+      "directory" : "E:/MCU/MSP/26NUEDC/duoji/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"E:/MCU/MSP/26NUEDC/duoji/drivers\" -I\"E:/MCU/MSP/26NUEDC/duoji\" -I\"E:/MCU/MSP/26NUEDC/duoji/Debug\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source/third_party/CMSIS/Core/Include\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "E:/MCU/MSP/26NUEDC/duoji/empty.c"
+   },
+   {
+      "directory" : "E:/MCU/MSP/26NUEDC/duoji/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"E:/MCU/MSP/26NUEDC/duoji/drivers\" -I\"E:/MCU/MSP/26NUEDC/duoji\" -I\"E:/MCU/MSP/26NUEDC/duoji/Debug\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source/third_party/CMSIS/Core/Include\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "E:/MCU/MSP/26NUEDC/duoji/drivers/PID.c"
+   },
+   {
+      "directory" : "E:/MCU/MSP/26NUEDC/duoji/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"E:/MCU/MSP/26NUEDC/duoji/drivers\" -I\"E:/MCU/MSP/26NUEDC/duoji\" -I\"E:/MCU/MSP/26NUEDC/duoji/Debug\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source/third_party/CMSIS/Core/Include\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "E:/MCU/MSP/26NUEDC/duoji/drivers/balance.c"
+   },
+   {
+      "directory" : "E:/MCU/MSP/26NUEDC/duoji/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"E:/MCU/MSP/26NUEDC/duoji/drivers\" -I\"E:/MCU/MSP/26NUEDC/duoji\" -I\"E:/MCU/MSP/26NUEDC/duoji/Debug\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source/third_party/CMSIS/Core/Include\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "E:/MCU/MSP/26NUEDC/duoji/drivers/servo.c"
+   },
+   {
+      "directory" : "E:/MCU/MSP/26NUEDC/duoji/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"E:/MCU/MSP/26NUEDC/duoji/drivers\" -I\"E:/MCU/MSP/26NUEDC/duoji\" -I\"E:/MCU/MSP/26NUEDC/duoji/Debug\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source/third_party/CMSIS/Core/Include\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "E:/MCU/MSP/26NUEDC/duoji/drivers/uart.c"
+   },
+   {
+      "directory" : "E:/MCU/MSP/26NUEDC/duoji/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"E:/MCU/MSP/26NUEDC/duoji/drivers\" -I\"E:/MCU/MSP/26NUEDC/duoji\" -I\"E:/MCU/MSP/26NUEDC/duoji/Debug\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source/third_party/CMSIS/Core/Include\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "E:/MCU/MSP/26NUEDC/duoji/drivers/delay.c"
+   },
+   {
+      "directory" : "E:/MCU/MSP/26NUEDC/duoji/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"E:/MCU/MSP/26NUEDC/duoji/drivers\" -I\"E:/MCU/MSP/26NUEDC/duoji\" -I\"E:/MCU/MSP/26NUEDC/duoji/Debug\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source/third_party/CMSIS/Core/Include\" -I\"D:/DOWDLOAD/CCSTUDIO/Sample_Code/source\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"D:/DOWDLOAD/CCSTUDIO/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "E:/MCU/MSP/26NUEDC/duoji/Debug/ti_msp_dl_config.c"
+   }
+]

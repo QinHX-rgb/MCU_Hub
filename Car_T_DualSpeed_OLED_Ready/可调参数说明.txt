@@ -1,0 +1,31 @@
+双档按键 + OLED 常亮版，参数主要在 Driver/app_config.h 中修改。
+
+1. 速度
+BASE_PWM_FAST = 30：S1 快速档基础 PWM。
+BASE_PWM_SLOW = 24：Key2/PB16 慢速档基础 PWM。
+MAX_PWM = 40：左右轮最大 PWM 上限。
+CURVE_MIN_PWM = 18.0：转弯时的最低基础速度。
+CURVE_SLOWDOWN = 6.0：转弯降速强度，越大则弯道越慢。
+
+2. 循迹方向与灵敏度
+LINE_CENTER = 35：灰度传感器轨迹中心值。车始终偏一边时小幅调整。
+STEER_KP = 0.32：转向力度。转弯不够就增大，摆动太大就减小。
+STEER_KD = 0.12：抑制左右摆动。摆动明显可小幅增大。
+STEER_LIMIT = 15.0：最大左右差速。急弯转不过可增大。
+LINE_DEAD_ZONE = 1.5：中心死区。直线抖动可增大，反应迟钝可减小。
+
+3. 平滑程度
+LINE_FILTER_ALPHA = 0.22：位置响应速度。越大反应越快，也更容易抖。
+DERIVATIVE_FILTER_ALPHA = 0.20：误差变化率滤波。
+PWM_FILTER_ALPHA = 0.18：电机 PWM 平滑系数。越大加减速越快。
+
+4. 停车线和刹车
+STOP_LINE_BLACK_MIN = 3：同时检测到多少路黑色判定为停车线。
+START_LINE_CLEAR_FRAMES = 5：离开起点后，连续多少帧才允许检测终点。
+FINISH_BRAKE_TIME_MS = 150：TB6612 短刹车时间，停辗距离过长可增大，刹车太猛可减小。
+
+5. OLED 刷新
+DISPLAY_UPDATE_FRAMES = 40：每 40 个控制周期刷新一次。
+CONTROL_PERIOD_MS = 5：当前约每 200 ms 刷新 OLED。
+
+调参建议：每次只改一个参数，并先以 5%~10% 幅度小调。
